@@ -3,7 +3,7 @@ package gr.aueb.cf.solutions.ch7;
 /**
  *
  */
-public class CryptoJuliusCaesarApp {
+public class CryptoJuliusCeasarApp {
 
     public static void main(String[] args) {
         String s = "BUZZ";
